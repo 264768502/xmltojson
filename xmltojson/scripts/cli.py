@@ -4,7 +4,7 @@ import sys
 import os
 
 import xmltojson
-import utils
+import xmltojson.utils
 
 
 def _get_input() -> str:
